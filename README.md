@@ -62,13 +62,10 @@ Según el modelo de la calculadora, deberá navegar mediante la tecla MODE para 
 
 Por ejemplo sen 25 º = 0.4226 con la calculadora puesta en modo DEG. Al convertir 25 º a radianes se obtiene 0.4363 radianes y sen 0.4363 rad = 0.425889 ≈ 0.4226.
 
-* Desarrollo:
-
- ![](https://github.com/eddy90cg/lab6-onda-senoidal/blob/main/im/diagrama%20a%20realizar.jpg)
- 
  * Mentefacto:
  
  ![](https://github.com/eddy90cg/lab6-onda-senoidal/blob/main/im/mentefacto.jpg)
+ 
  
  # 3. EXPLICACIÓN DEL PROCEDIMIENTO.-
  
@@ -84,32 +81,44 @@ una frecuencia de 2.5 Khz.
 3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
 el osciloscopio.
  
- * Lista de Componentes:
+* Lista de Componentes:
 
-Lista de Materiales y componetes necesarios para desarrollar experimental del laboratorio :
+ Lista de Materiales y componetes necesarios para desarrollar experimental del laboratorio :
 
-* Generador de funciones
-* Osciloscopio.
-* Protoboard
-* Multímetro digital
-* resistor de 1kΩ 
-* Resistor de 2.2kΩ
+ * Generador de funciones
+ * Osciloscopio.
+ * Protoboard
+ * Multímetro digital
+ * resistor de 1kΩ 
+ * Resistor de 2.2kΩ
+
+* Desarrollo:
+
+ ![](https://github.com/eddy90cg/lab6-onda-senoidal/blob/main/im/diagrama%20a%20realizar.jpg)
+ 
+* Procedimiento: 
+
+ * Empezamos con la realizacion el circuito presentado en el diagrama en la plata forma proteus para realizar el simulado del circuito 
+
+ * Despues buscamos y conectamos los componentes y poniendo los valores tanto del voltaje pico a pico como la frecuencia que va a existir en la fuente de voltaje respectiva
+
+ * Responderemos las preguntas planteadas en la seccion correspondiente.
+
 
 * Diagramas y resultados:
 
-![](https://github.com/eddy90cg/lab6-onda-senoidal/blob/main/im/simulada%20proteus.jpeg)
-![WhatsApp Image 2021-03-02 at 12 23 03 PM](https://user-images.githubusercontent.com/76057459/109697006-b131bf80-7b5b-11eb-9a21-0c42573ea54a.jpeg)
+ ![](https://github.com/eddy90cg/lab6-onda-senoidal/blob/main/im/simulada%20proteus.jpeg)
+ 
 
-* imagen osiloscopio: 
+* Imagen osiloscopio: 
 
-   *   https://github.com/eddy90cg/lab6-onda-senoidal/blob/main/Anexos/CamScanner%2003-02-2021%2013.20.pdf
+   * ![WhatsApp Image 2021-03-02 at 1 27 21 PM](https://user-images.githubusercontent.com/76057459/109696986-ab3bde80-7b5b-11eb-97a8-bc6e1e3c1676.jpeg)
+
 
 * Calculos correspondientes para el experimento :
-  
-  * ![WhatsApp Image 2021-03-02 at 1 27 21 PM](https://user-images.githubusercontent.com/76057459/109696986-ab3bde80-7b5b-11eb-97a8-bc6e1e3c1676.jpeg)
-  
-  * Empezamos con la realizacion el circuito presentado en el diagrama en la plata forma proteus para realizar el simulado del circuito, despues buscamos y conectamos los componentes y poniendo los valores tanto del voltaje pico a pico como la frecuencia que va a existir en la fuente de voltaje respectiva y responderemos las siguientes preguntas.
 
+   *   https://github.com/eddy90cg/lab6-onda-senoidal/blob/main/Anexos/CamScanner%2003-02-2021%2013.20.pdf
+    
 CALCULOS :
 
 1. RESISTENCIA TOTAL
