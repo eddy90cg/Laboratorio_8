@@ -115,6 +115,9 @@ el osciloscopio.
    * ![WhatsApp Image 2021-03-02 at 1 27 21 PM](https://user-images.githubusercontent.com/76057459/109696986-ab3bde80-7b5b-11eb-97a8-bc6e1e3c1676.jpeg)
 
 
+# 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR.-
+
+ 
 * Calculos correspondientes para el experimento :
 
    *   https://github.com/eddy90cg/lab6-onda-senoidal/blob/main/Anexos/CamScanner%2003-02-2021%2013.20.pdf
@@ -148,7 +151,6 @@ VRL=6,87(V)
 ω = 2π2(2500Hz)
 ω = 15707.96 rad/s
 
-# 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR.-
  
  * Fórmula a aplicar para el cálculo del ERROR:
 
