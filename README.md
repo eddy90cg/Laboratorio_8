@@ -105,49 +105,6 @@ Por ejemplo sen 25 º = 0.4226 con la calculadora puesta en modo DEG. Al convert
 ![](https://github.com/eddy90cg/Laboratorio_8/blob/main/img/Circuito%20con%20Multímetro.jpeg)
 
 # 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR.-
-
- 
-* Calculos correspondientes para el experimento :
-
-   *   https://github.com/eddy90cg/lab6-onda-senoidal/blob/main/Anexos/CamScanner%2003-02-2021%2013.20.pdf
-    
-CALCULOS :
-
-1. RESISTENCIA TOTAL
-RT = 𝑅1 + 𝑇𝐿
-𝑅𝑇 = (1000 + 2200)Ω
-𝑅𝑇 = 3200 Ω
-
-2. INTENSIDAD TOTAL
-𝐼𝑇 =𝑉𝑎𝑐/Rt
-𝐼𝑇 =10V/3200
-𝐼𝑇 = 3.125 𝑚�
-
-3.𝑓𝑜𝑟𝑚𝑢𝑙𝑎 𝑑𝑒 𝑑𝑖𝑣𝑖𝑠𝑜𝑟 𝑑𝑒
-𝑑𝑒 𝑣𝑜𝑙𝑡𝑎𝑗𝑒 𝑝𝑎𝑟𝑎 𝑠𝑎𝑏𝑒𝑟 𝑒𝑙 𝑣𝑜𝑙𝑡𝑎𝑗𝑒 𝑑𝑒 𝑅𝐿
-𝑉𝑅𝐿 =𝑉𝑇.RL
-𝑉𝑇(RL)=3,125(2,2)
-VRL=6,87(V)
-
-4.VOLTAJE RMS
-𝑉𝑟𝑚𝑠 = 0.707𝑉𝑝
-𝐸𝑛𝑡𝑜𝑛𝑐𝑒𝑠:
-𝑉𝑟𝑚𝑠 = 0.707(6.875𝑉)
-𝑉𝑟𝑚𝑠 = 4.86 mA
-
-5.velocidad angular
-ω = 2πf
-ω = 2π2(2500Hz)
-ω = 15707.96 rad/s
-
- 
- * Fórmula a aplicar para el cálculo del ERROR:
-
-  <img src="https://latex.codecogs.com/svg.latex?\large&space;\begin{align*}&space;&\textrm{F\'ormula&space;para&space;encontrar&space;el&space;Error&space;Porcentual}\\&space;\\&space;&%Error=\frac{\textrm{Valor&space;Te\'orico&space;-&space;Valor&space;Medido}}{\textrm{Valor&space;Te\'orico}}\times100&space;\end{align*}" title="\large \begin{align*} &\textrm{F\'ormula para encontrar el Error Porcentual}\\ \\ &%Error=\frac{\textrm{Valor Te\'orico - Valor Medido}}{\textrm{Valor Te\'orico}}\times100 \end{align*}" />
- 
- * CALCULO DEL ERROR:
-    voltaje pico=0,36%
-    voltaje rms=0,78%
  
  * RESPUESTA A INTERROGANTES:
  
@@ -183,48 +140,43 @@ salida.
 
 * Con el multímetro digital mida el voltaje de salida en RL: 
  
-   9,71 V
+ 9,71 V
 
 * Compare el voltaje medido en el punto anterior y el obtenido en el punto siguiente.
 
-   ¿Coinciden? NO COINCIDEN YA QUE SE HABLA DE UN VOLTAJE PICO Y EL OTRO ES UN VOLTAJE RMS O EFICAZ  EN EL OSILOSCOPIO OBTENEMOS UN VALOR  PICO MIENTRAS QUE EPARA OBTENER EL VALOR EFICAZ DIVIDIMOS PARA  RAIZ DE 2, EN EL MULTIMETRO DIGITAL YA NOS PROPORCIONA EL VALOR EFICAZ
-___________________________________________________________________________________________________________________________________________________________________________
+ ¿Coinciden? 
+ 
+ NO COINCIDEN 
+ 
+ ¿Por qué?
+ 
+SE HABLA DE UN VOLTAJE PICO Y EL OTRO ES UN VOLTAJE RMS O EFICAZ  EN EL OSILOSCOPIO OBTENEMOS UN VALOR  PICO MIENTRAS QUE EPARA OBTENER EL VALOR EFICAZ DIVIDIMOS PARA  RAIZ DE 2, EN EL MULTIMETRO DIGITAL YA NOS PROPORCIONA EL VALOR EFICAZ
 
- 
- 
- 
- 
- 
  # 5. VIDEO.-
- 
  
  -----------------------
  
  # 6.	CONCLUSIONES.-
  
- * Mediante la practica se observo el comportamiento de la onda senoidal y sus caracteristicas las se pueden obtener mediante calculos y analizar los valor de cada una 
-se observar la diferencia de voltaje rms y voltaje pico al momento de realizar la practica y comparar las mediciones con el oscilometro y el multimetro digital.
+ * Mediante la práctica se observo el comportamiento de la onda senoidal y sus características las se pueden obtener mediante cálculos y analizar los valor de cada una 
+se observar la diferencia de voltaje rms y voltaje pico al momento de realizar la práctica y comparar las mediciones con el osciloscopio y el multímetro digital.
 
-* El software proteus es util en este tipo de practicas ya que posee variedad de elementos que se necesita para simular el circuito
- 
- 
- 
- 
+* El software proteus es util en este tipo de practicas ya que posee variedad de elementos que se necesita para simular el circuito (CAMBIAR)
  
  # 7.	BIBLIOGRAFÍA.-
  
  Obtenido de:
 
-https://www.lifeder.com/onda-senoidal/
+    https://www.lifeder.com/onda-senoidal/
  
  
 Obtenido de:
 
-http://ondasguiadasdiana.blogspot.com/2016/08/caracteristicas-de-las-ondas-senoidales.html
+    http://ondasguiadasdiana.blogspot.com/2016/08/caracteristicas-de-las-ondas-senoidales.html
 
 Obtenido de :
 
-https://www.ecured.cu/Onda_senoidal#:~:text=Concepto%3A,marcados%20en%20amplitud%20y%20tiempo.
+    https://www.ecured.cu/Onda_senoidal#:~:text=Concepto%3A,marcados%20en%20amplitud%20y%20tiempo.
  
 
  * RÚBRICA:
