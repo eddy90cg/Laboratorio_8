@@ -69,28 +69,24 @@ Por ejemplo sen 25 º = 0.4226 con la calculadora puesta en modo DEG. Al convert
  
  # 3. EXPLICACIÓN DEL PROCEDIMIENTO.-
  
- * Explicacion:
+ Para realizar este laboratorio debes realizar los siguientes pasos:
  
- 1. Implemente el circuito que se presenta en la figura 
+* Implemente el circuito 
 
-Figura  Circuito con alimentación en c.a.
+* Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
 
-2. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
-una frecuencia de 2.5 Khz.
-
-3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
-el osciloscopio.
+* Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
  
-* Lista de Componentes:
+* Equipos y Materiales necesarios:
 
- Lista de Materiales y componetes necesarios para desarrollar experimental del laboratorio :
-
- * Generador de funciones
- * Osciloscopio.
- * Protoboard
- * Multímetro digital
- * resistor de 1kΩ 
- * Resistor de 2.2kΩ
+ | **Cantidad** | **Elemento** |
+| :---: | :---: |
+| 1 | Generador de Funciones |
+| 1 | Osciloscopio | 
+| 1 | Multímetro | 
+| 1 | Resistor de <img src="https://latex.codecogs.com/svg.latex?1k\Omega" title="1k\Omega" /> | 
+| 1 | Resistor de <img src="https://latex.codecogs.com/svg.latex?2.2k\Omega" title="2.2k\Omega" /> | 
+| 1 | Protoboard | 
 
 * Desarrollo:
 
