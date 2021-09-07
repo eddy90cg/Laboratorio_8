@@ -26,14 +26,14 @@ Onda senoidal representa el valor de la tensión de la Corriente alterna a trav�
 
 Osciloscopio (también conocido con el nombre "Oscilógrafo") es una de las más importantes e indispensables herramientas para analizar las señales eléctricas. Hoy día no hay un sólo taller de electrónica o centro de servicio que no tenga este aparato. ¿Pero qué exactamente hacen estos equipos? Los osciloscopios permiten visualizar los cambios de amplitud de señal suministrada durante un lapso de tiempo, observar, medir y grabar esta señal. Un osciloscopio moderno es una herramienta versátil, que permite chequear, ajustar y detectar las fallas no solamente en los componentes electrónicos aislados, sino también en los módulos completos.
 
-![onda-senoidal1](https://user-images.githubusercontent.com/76057459/109590649-5ad06c80-7ada-11eb-8a57-5b67199c551d.jpg)
+![](https://github.com/eddy90cg/Laboratorio_8/blob/main/img/Teoría%201.jpeg)
 
 Figura 1. Una onda senoidal con algunas de sus principales características espaciales: amplitud, longitud de onda y fase.
 La matemática de las ondas senoidales o sinusoidales, como también se las conoce, es la de las funciones seno y coseno.
 
 Se trata de funciones repetitivas, lo que significa periodicidad. Ambas tienen idéntica forma, con la salvedad de que el coseno está desplazado hacia la izquierda respecto al seno en un cuarto de ciclo. Se observa en la figura 2:
 
-![ondas-senoidales-2](https://user-images.githubusercontent.com/76057459/109590851-ad118d80-7ada-11eb-844f-2f7c16a2f290.jpg)
+![](https://github.com/eddy90cg/Laboratorio_8/blob/main/img/Teoría%202.jpeg)
 
 Una onda senoidal se caracteriza por:
 
@@ -48,7 +48,7 @@ Una onda senoidal se caracteriza por:
 
 Todo esto, pues, tiene que ver con la forma en que describimos las ondas. Su fórmula es
 
-Posicion(tiempo)=Amplitud*sin(frecuencia*tiempo+fase)
+Posicion(tiempo)=Amplitud * sin(frecuencia * tiempo + fase)
 
 * frecuencia: es la velocidad a la que se mueve o vibra el sonido (la senoide). Por ejemplo una frecuencia de 440 Hz corresponde a un LA en la octava media de un piano. Esta es por ejemplo la nota a la que se suele afinar. Es una magnitud subjetiva y se refiere a la altura o gravedad de un sonido. Sin enbargo, la frecuencia es una magnitud objetiva y mensurable referida a formas de onda periódicas. Para expresar una frecuencia lo hacemos refiriéndonos a vibraciones por segundo. Así un frecuencia de 1 Herzio es lo mismo que decir que el sonido tiene una vibración por segundo
 
@@ -222,38 +222,19 @@ se observar la diferencia de voltaje rms y voltaje pico al momento de realizar l
  
  Obtenido de:
 
-    https://www.lifeder.com/onda-senoidal/
+https://www.lifeder.com/onda-senoidal/
  
  
 Obtenido de:
 
-    http://ondasguiadasdiana.blogspot.com/2016/08/caracteristicas-de-las-ondas-senoidales.html
+http://ondasguiadasdiana.blogspot.com/2016/08/caracteristicas-de-las-ondas-senoidales.html
 
 Obtenido de :
 
-    https://www.ecured.cu/Onda_senoidal#:~:text=Concepto%3A,marcados%20en%20amplitud%20y%20tiempo.
+https://www.ecured.cu/Onda_senoidal#:~:text=Concepto%3A,marcados%20en%20amplitud%20y%20tiempo.
  
- 
- 
- 
- 
+
  * RÚBRICA:
 
 ![](https://github.com/eddy90cg/Laboratorio_4/blob/main/Anexos/rubrica.jpg)
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
