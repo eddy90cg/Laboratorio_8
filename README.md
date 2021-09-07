@@ -137,7 +137,7 @@ salida.
 
   Frecuencia:
   
-  <img src="https://latex.codecogs.com/svg.latex?f=\frac{1}{T}=\frac{1}{0.4ms}=2kHz" title="f=\frac{1}{T}=\frac{1}{0.4ms}=2kHz" />
+  <img src="https://latex.codecogs.com/svg.latex?f=\frac{1}{T}=\frac{1}{0.4ms}=2.5kHz=2500Hz" title="f=\frac{1}{T}=\frac{1}{0.4ms}=2.5kHz=2500Hz" />
   
   Frecuencia Angular: 
   
