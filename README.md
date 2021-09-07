@@ -48,7 +48,7 @@ Una onda senoidal se caracteriza por:
 
 Todo esto, pues, tiene que ver con la forma en que describimos las ondas. Su fórmula es
 
-Posicion(tiempo)=Amplitud * sin(frecuencia * tiempo + fase)
+Posición(tiempo) = Amplitud * sin (frecuencia * tiempo + fase)
 
 * frecuencia: es la velocidad a la que se mueve o vibra el sonido (la senoide). Por ejemplo una frecuencia de 440 Hz corresponde a un LA en la octava media de un piano. Esta es por ejemplo la nota a la que se suele afinar. Es una magnitud subjetiva y se refiere a la altura o gravedad de un sonido. Sin enbargo, la frecuencia es una magnitud objetiva y mensurable referida a formas de onda periódicas. Para expresar una frecuencia lo hacemos refiriéndonos a vibraciones por segundo. Así un frecuencia de 1 Herzio es lo mismo que decir que el sonido tiene una vibración por segundo
 
@@ -79,7 +79,7 @@ Por ejemplo sen 25 º = 0.4226 con la calculadora puesta en modo DEG. Al convert
  
 * Equipos y Materiales necesarios:
 
- | **Cantidad** | **Elemento** |
+| **Cantidad** | **Elemento** |
 | :---: | :---: |
 | 1 | Generador de Funciones |
 | 1 | Osciloscopio | 
@@ -88,28 +88,21 @@ Por ejemplo sen 25 º = 0.4226 con la calculadora puesta en modo DEG. Al convert
 | 1 | Resistor de <img src="https://latex.codecogs.com/svg.latex?2.2k\Omega" title="2.2k\Omega" /> | 
 | 1 | Protoboard | 
 
-* Desarrollo:
+* Figura, Circuito Teórico:
 
- ![](https://github.com/eddy90cg/lab6-onda-senoidal/blob/main/im/diagrama%20a%20realizar.jpg)
- 
-* Procedimiento: 
+![](https://github.com/eddy90cg/Laboratorio_8/blob/main/img/Circuito%20Teórico.jpeg)
 
- * Empezamos con la realizacion el circuito presentado en el diagrama en la plata forma proteus para realizar el simulado del circuito 
+* Circuito Experimental Armado:
 
- * Despues buscamos y conectamos los componentes y poniendo los valores tanto del voltaje pico a pico como la frecuencia que va a existir en la fuente de voltaje respectiva
+![](https://github.com/eddy90cg/Laboratorio_8/blob/main/img/Circuito%20Armado%20Solo.jpeg)
 
- * Responderemos las preguntas planteadas en la seccion correspondiente.
+* Circuito Experimental con mediciones del Osciloscopio
 
+![](https://github.com/eddy90cg/Laboratorio_8/blob/main/img/Circuito%20con%20Osciloscopio.jpeg)
 
-* Diagramas y resultados:
+* Circuito Experimental con mediciones del Multímetro
 
- ![](https://github.com/eddy90cg/lab6-onda-senoidal/blob/main/im/simulada%20proteus.jpeg)
- 
-
-* Imagen osiloscopio: 
-
-   * ![WhatsApp Image 2021-03-02 at 1 27 21 PM](https://user-images.githubusercontent.com/76057459/109696986-ab3bde80-7b5b-11eb-97a8-bc6e1e3c1676.jpeg)
-
+![](https://github.com/eddy90cg/Laboratorio_8/blob/main/img/Circuito%20con%20Multímetro.jpeg)
 
 # 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR.-
 
