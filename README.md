@@ -1,4 +1,4 @@
-# CARACTERISTICAS DE LA ONDA SENOIDAL
+# CARACTERÍSTICAS DE LA ONDA SENOIDAL
 
 #### INTEGRANTES: EDISON CADENA - STEVEN FLORES - WILLIAM MOSQUERA
 
@@ -6,13 +6,12 @@
 
 OBJETIVO GENERAL:
 
-* Determinar experimentalmente las características de señales senoidales.
-Realizar el circuito propuesto  y  observar la onda senoidad reconocer e interpretar sus caracteristicas
+* Realizar el circuito propuesto  y  observar la onda senoidal, reconocer e interpretar sus características
 
 OBJETIVOS ESPECÍFICOS: 
 
-* Reconocer e interpretar  las caracteristicas de la onda senoidal
-* Obtener la frecuencia a partir de los datos obtenidos con el osiloscopio
+* Reconocer e interpretar  las características de la onda senoidal
+* Obtener la frecuencia a partir de los datos obtenidos con el osciloscopio
 * Observar la diferencia de voltaje rms y voltaje pico 
  
 
