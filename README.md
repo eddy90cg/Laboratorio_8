@@ -64,7 +64,7 @@ Por ejemplo sen 25 º = 0.4226 con la calculadora puesta en modo DEG. Al convert
 
  * Mentefacto:
  
- ![](https://github.com/eddy90cg/lab6-onda-senoidal/blob/main/im/mentefacto.jpg)
+ ![](https://github.com/eddy90cg/Laboratorio_8/blob/main/img/Mentefacto%20-%20Lab%208.jpg)
  
  
  # 3. EXPLICACIÓN DEL PROCEDIMIENTO.-
